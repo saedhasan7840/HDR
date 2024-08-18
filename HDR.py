@@ -178,7 +178,7 @@ def apv():
 			menu()
 		else:	
 			clear()
-			os.system('xdg-open https://www.facebook.com/dekuarafat?mibextid=ZbWKwL')
+			os.system('xdg-open https://www.facebook.com/profile.php?id=100037253405863&mibextid=ZbWKwL')
 			print(f"\033[1;32m[✓] \033[0;37m YOUR KEY \033[1;32m:\033[0;37m {kex}");linex()
 			print(f"\033[1;32m[✓] \033[0;37m TOOL    \033[1;32m:\033[0;37m FILE\033[1;32m[✓]\033[0;37mRANDOM")
 			print(f"\033[1;32m[✓] \033[0;37m EXPIRED \033[1;32m:\033[0;37m YOUR KEY NOT REGISTERED")
@@ -190,7 +190,7 @@ def apv():
 			print(f"\033[1;32m[01] \033[1;36m UPGRADE TO PREMIUM")
 			linex()
 			input(f"\033[1;32m[✓] \033[0;37m CHOICE \033[1;32m: \033[1;32m")
-			os.system(f"termux-open-url https://wa.me/+8801329465114?text={kex}")  	
+			os.system(f"termux-open-url https://wa.me/+8801995407289?text={kex}")  	
 			apv()
 	except requests.exceptions.ConnectionError:
 		exit(' No internet connection ..')
@@ -230,14 +230,45 @@ samsung = random.choice(['SM-G920F','NRD90M', 'SM-T535','LRX22G', 'SM-T231','KOT
 #--------------------------------[END]--------------------------------#
 logo=(f'''         
           \033[1;36m
-░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓███████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
-                                                                            
+   
+____________________██████
+_________▓▓▓▓____█████████
+__ Ƹ̵̡Ӝ̵̨̄Ʒ▓▓▓▓▓=▓____▓=▓▓▓▓▓
+__ ▓▓▓_▓▓▓▓░●____●░░▓▓▓▓
+_▓▓▓▓_▓▓▓▓▓░░__░░░░▓▓▓▓
+_ ▓▓▓▓_▓▓▓▓░░♥__♥░░░▓▓▓
+__ ▓▓▓___▓▓░░_____░░░▓▓
+▓▓▓▓▓____▓░░_____░░▓
+_ ▓▓____ ▒▓▒▓▒___ ████
+_______ ▒▓▒▓▒▓▒_ ██████
+_______▒▓▒▓▒▓▒ ████████
+_____ ▒▓▒▓▒▓▒_██████ ███
+_ ___▒▓▒▓▒▓▒__██████ _███
+_▓▓X▓▓▓▓▓▓▓__██████_ ███
+▓▓_██████▓▓__██████_ ███
+▓_███████▓▓__██████_ ███
+_████████▓▓__██████ _███
+_████████▓▓__▓▓▓▓▓▓_▒▒
+_████████▓▓__▓▓▓▓▓▓
+_████████▓▓__▓▓▓▓▓▓
+__████████▓___▓▓▓▓▓▓
+_______▒▒▒▒▒____▓▓▓▓▓▓
+_______▒▒▒▒▒ _____▓▓▓▓▓
+_______▒▒▒▒▒_____ ▓▓▓▓▓
+_______▒▒▒▒▒ _____▓▓▓▓▓
+________▒▒▒▒______▓▓▓▓▓
+________█████____█████
+_'▀█║────────────▄▄───────────​─▄──▄_
+──█║───────▄─▄─█▄▄█║──────▄▄──​█║─█║
+──█║───▄▄──█║█║█║─▄║▄──▄║█║─█║​█║▄█║
+──█║──█║─█║█║█║─▀▀──█║─█║█║─█║​─▀─▀
+──█║▄║█║─█║─▀───────█║▄█║─▀▀
+──▀▀▀──▀▀────────────▀─█║
+───────▄▄─▄▄▀▀▄▀▀▄──▀▄▄▀
+──────███████───▄▀
+──────▀█████▀▀▄▀
+────────▀█▀
+                                                                                   
 \033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 \033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m DEVELOPER ☞⁠￣⁠ᴥ⁠￣⁠☞ MR \033[1;33mSAED HASAN
 \033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m FACEBOOK  ☞⁠￣⁠ᴥ⁠￣⁠☞ MR \033[1;38mSAED HASAN
@@ -253,7 +284,7 @@ def menu():
                         linex()
                         xd=input(f'\033[1;32m[✓] \033[0;37m CHOICE \033[1;32m: \033[1;32m')
                         if xd in ['1','01']:
-                                clear();print(f'\033[1;32m[✓] \033[0;37m EXAMPLE \033[1;32m: \033[1;31m/sdcard/ARAFAT.txt ');linex()
+                                clear();print(f'\033[1;32m[✓] \033[0;37m EXAMPLE \033[1;32m: \033[1;31m/sdcard/SAED.txt ');linex()
                                 file = input(f'\033[1;32m[✓] \033[0;37m FILE NAME \033[1;32m: \033[1;32m')
                                 try:
                                         fo = open(file,'r').read().splitlines()
@@ -342,7 +373,7 @@ def menu():
                         elif xd in ['2','02']:
                                 Random()
                         elif xd in ['3','03']:
-                                os.system('xdg-open https://www.facebook.com/dekuarafat?mibextid=ZbWKwL');menu()
+                                os.system('xdg-open https://www.facebook.com/profile.php?id=100037253405863&mibextid=ZbWKwL');menu()
                         elif xd in ['0','00']:
                                 exit(f'\033[1;32m[✓] \033[0;37m EXIT DONE ')
                         else:
@@ -355,7 +386,7 @@ def menu():
 #__________________| FILE METHOD M1 |__________________#
 def api1(ids,names,passlist):
     global loop,oks,cps
-    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-ARAFAT-\033[1;31mM1 \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
+    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-SAED-\033[1;31mM1 \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
     sys.stdout.flush()
     try:
         fn = names.split(' ')[0]
@@ -430,7 +461,7 @@ def api1(ids,names,passlist):
 #__________________| FILE METHOD M2 |__________________#
 def api2(ids,names,passlist):
     global loop,oks,cps
-    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-ARAFAT-\033[1;31mM2 \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
+    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-SAED-\033[1;31mM2 \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
     sys.stdout.flush()
     try:
         fn = names.split(' ')[0]
@@ -505,7 +536,7 @@ def api2(ids,names,passlist):
 #__________________| FILE METHOD M3 |_________________
 def api3(ids,names,passlist):
     global loop,oks,cps
-    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-ARAFAT-\033[1;31mM3 \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
+    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-SAED-\033[1;31mM3 \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
     sys.stdout.flush()
     try:
         fn = names.split(' ')[0]
@@ -641,7 +672,7 @@ def pk():
 #__________________| API RN |_________________
 def __DEK__(ids,passlist,tl,ck):
     global loop,oks,cps
-    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-ARAFAT-\033[1;31mRANDOM \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
+    sys.stdout.write(f'\r\r \033[1;32mD\033[0;37mE\033[1;32mK\033[0;37mU\033[1;32m-SAED-\033[1;31mRANDOM \033[0;37m[✓]\033[1;36m %s\033[0;37m [✓]\033[1;32m OK \033[0;37m[✓]\033[1;32m %s '%(loop,len(oks)));sys.stdout.flush()
     sys.stdout.flush()
     session=requests.Session()
     ua = ua_valid()
