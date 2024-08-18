@@ -1,6 +1,6 @@
-# OWNER BY SCRIPT : MR DEKU
-# GITHUB LINK : MR-DEKU-VAIYA
-# MACK BY : MR DEKU 
+# OWNER BY SCRIPT : SAED HASAN
+# GITHUB LINK : AK SAED
+# MACK BY : SAED HASAN 
 #__________________| IMPORT |__________________#
 from os import path
 from urllib.request import urlopen
@@ -161,7 +161,7 @@ plat = platform.version()[14:][:21][::-1].upper()+platform.release()[5:][::-1].u
 xp = plat.replace(' ', '').replace('-', '').replace('#', '').replace(':', '').replace('.', '').replace(')', '').replace('(', '').replace('?', '').replace('=', '').replace('+', '').replace(';', '').replace('*', '').replace('_', '').replace('?', '').replace('  ', '')
 bxd = ""
 kex = bxd+id
-myweb2 = requests.get("https://github.com/MR-DEKU-VAIYA/Apporve/blob/main/App.txt").text
+myweb2 = requests.get("https://github.com/saedhasan7840/HDR/blob/main/aprove.txt").text
 def apv():
 	try:
 		clear()
@@ -182,12 +182,12 @@ def apv():
 			print(f"\033[1;32m[✓] \033[0;37m YOUR KEY \033[1;32m:\033[0;37m {kex}");linex()
 			print(f"\033[1;32m[✓] \033[0;37m TOOL    \033[1;32m:\033[0;37m FILE\033[1;32m[✓]\033[0;37mRANDOM")
 			print(f"\033[1;32m[✓] \033[0;37m EXPIRED \033[1;32m:\033[0;37m YOUR KEY NOT REGISTERED")
-			print(f"\033[1;32m[✓] \033[0;37m STATUS  \033[1;32m:\033[0;37m EMPTY");linex()
+			print(f"\033[1;32m[✓] \033[0;37m STATUS  \033[1;32m:\033[0;37m PAID");linex()
 			print(f"\033[1;32m[✓] \033[0;37m START FILE CLONE")
 			print(f"\033[1;32m[✓] \033[0;37m START RANDOM CLONE")
 			print(f"\033[1;32m[✓] \033[0;37m CONTACT OWNER  ")
 			print(f"\033[1;32m[✓] \033[0;37m EXIT ")
-			print(f"\033[1;32m01 \033[0;37m UPGRADE TO PREMIUM")
+			print(f"\033[1;32m[01] \033[1;36m UPGRADE TO PREMIUM")
 			linex()
 			input(f"\033[1;32m[✓] \033[0;37m CHOICE \033[1;32m: \033[1;32m")
 			os.system(f"termux-open-url https://wa.me/+8801329465114?text={kex}")  	
@@ -239,11 +239,11 @@ logo=(f'''
 ░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
                                                                             
 \033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m DEVELOPER ☞⁠￣⁠ᴥ⁠￣⁠☞ MR \033[1;33mSAED
-\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m FACEBOOK  ☞⁠￣⁠ᴥ⁠￣⁠☞ MR SAED TERMUX XONE
-\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m GITHUB    ☞⁠￣⁠ᴥ⁠￣⁠☞ MR-SAED-404
-\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m TOOLS     ☞⁠￣⁠ᴥ⁠￣⁠☞ RANDOM + FILE [PAID VERSION]
-\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m VERSION   ☞⁠￣⁠ᴥ⁠￣⁠☞ \033[1;35mV=[1] 
+\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m DEVELOPER ☞⁠￣⁠ᴥ⁠￣⁠☞ MR \033[1;33mSAED HASAN
+\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m FACEBOOK  ☞⁠￣⁠ᴥ⁠￣⁠☞ MR \033[1;38mSAED HASAN
+\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m GITHUB    ☞⁠￣⁠ᴥ⁠￣⁠☞ MR-SAED-HASAN
+\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m TOOLS     ☞⁠￣⁠ᴥ⁠￣⁠☞ RANDOM + FILE \033[1;36m[PAID VERSION]
+\033[1;31m[\033[1;32m☞⁠￣⁠ᴥ⁠￣⁠☞\033[1;31m]\033[1;32m VERSION   ☞⁠￣⁠ᴥ⁠￣⁠☞ \033[1;35mV=[2] 
 \033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━''')
 #__________________| MENU |__________________#
 def menu():
@@ -659,13 +659,13 @@ def __DEK__(ids,passlist,tl,ck):
                 res = requests.get(ckk).text
                 if 'Photoshop' in res:
                     if "Y" in ck:
-                        print(f'\r\r\r\r\033[1;32m[DEKU-OK]\033[1;33m {cid} | {pas}')
+                        print(f'\r\r\r\r\033[1;32m[HDR-OK]\033[1;33m {cid} | {pas}')
                         print(f'\r\r\033[1;36m[COKIES-🍪] {coki}');linex()
                         open('/sdcard/DEKU-OK.txt','a').write(cid+'|'+pas+'\n');open('/sdcard/DEKU-OK-COOKIE.txt','a').write(cid+'|'+pas+'|'+coki+'\n')
                         oks.append(cid)
                         break
                     else:
-                        print(f'\r\r\r\r\033[1;32m[DEKU-OK]\033[1;36m {cid} | {pas}')
+                        print(f'\r\r\r\r\033[1;32m[HDR-OK]\033[1;36m {cid} | {pas}')
                         open('/sdcard/DEKU-OK.txt','a').write(cid+'|'+pas+'\n');open('/sdcard/DEKU-OK-COOKIE.txt','a').write(cid+'|'+pas+'|'+coki+'\n')
                         oks.append(cid)
                         break 
